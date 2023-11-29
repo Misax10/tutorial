@@ -1,5 +1,3 @@
-Name: Khoa Diep
-
-CECS 378
-
-Professor Giacalone
+Name: Khoa Diep 
+CECS 378 
+Professor Giacalone 
